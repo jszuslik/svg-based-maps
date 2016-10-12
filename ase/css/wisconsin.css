@@ -1,0 +1,13 @@
+.map_wisconsin {
+    width: 100%;
+    height: 750px;
+    margin: 0 auto;
+    position: relative;
+}
+.map_wisconsin #svg_map {
+    max-height: 100%;
+    width: auto;
+    margin: 0 auto;
+    display: block;
+}
+
