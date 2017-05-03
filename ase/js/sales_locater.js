@@ -208,11 +208,11 @@ function showSales(id){
           ],
           "sales_person": [
             {
-              "name": "Dave Gebhardt",
+              "name": "Ben Stanish",
               "title": "Territory Sales Representative",
               "office_phone": "8002366900",
               "mobile_phone": "4142175943",
-              "email": "dgebhardt@amstate.com"
+              "email": "bens@amstate.com"
             }
           ]
         }
