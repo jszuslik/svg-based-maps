@@ -1,4 +1,4 @@
-var svg_map = document.getElementById('svg_map');
+var svg_map = document.getElementsByTagName('svg_map');
 
 svg_map.addEventListener("load", function(){
     var svgDoc = svg_map.contentDocument;
